@@ -13,6 +13,12 @@ export const filmList: FilmList[] = [
     rating:"PG-13"
   },
   {
+    title:"X-Men",
+    year:2000,
+    genres:["Action", "Adventure", "Sci-Fi"],
+    rating:"PG-13"
+  },
+  {
     title:"Ratatouile",
     year:2007,
     genres:["Animation", "Comedy", "Family"],
@@ -20,7 +26,7 @@ export const filmList: FilmList[] = [
   },
   {
     title:"Despicable Me",
-    year:2007,
+    year:2010,
     genres:["Animation", "Adventure", "Comedy"],
     rating:"PG"
   },
@@ -35,6 +41,12 @@ export const filmList: FilmList[] = [
     year:2014,
     genres:["Horror", "Thriller"],
     rating:"R"
+  },
+  {
+    title:"Maleficent",
+    year:2014,
+    genres:["Adventure", "Fantasy", "Romance"],
+    rating:"PG"
   },
   {
     title:"San Andreas",
